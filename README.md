@@ -1,14 +1,14 @@
 ### Hey, Eu sou o Vitor. 👋
 
--
+
 - 🌱 Estudando HTML, CSS. JavaScrip,TypeScript...
 - 📫 Linkdin: https://www.linkedin.com/in/vitor-matheus-matioski/
 -->
 
 <div align="center">
   <a href="https://github.com/VITORMATIOSKI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VITORMATIOSKI&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITORMATIOSKI&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img width="48%" height="170em" src="https://github-readme-stats.vercel.app/api?username=VITORMATIOSKI&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img  width="48%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITORMATIOSKI&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
  <div style="display: inline_block"><br>
